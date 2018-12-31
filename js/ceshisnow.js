@@ -3,8 +3,7 @@
 
 // SnowVolume will change the density of the snowflakes
 var SnowVolume = 200;
-var elem = document.querySelector('body');
-var canvas = document.createElement('canvas');
+var elem = document.querySelector('.snow');
 var ctx = canvas.getContext('2d');
 var width = elem.clientWidth;
 var height = elem.clientHeight;
@@ -19,7 +18,7 @@ function onResize() {
 	ctx.fillStyle = '#FFF';
 
 	var wasActive = active;
-	active = width > 300;
+	active = width > 700;
 
 	if (!wasActive && active)
 		requestAnimFrame(update);
@@ -44,7 +43,8 @@ Snowflake.prototype.reset = function() {
 	this.o = 0.5 + Math.random() * 0.5;
 }
 
-canvas.setAttribute("style", "position:absolute; top: 0; left: 0; z-index: 1; pointer-events: none;");
+canvas.style.position = 'absolute';
+canvas.style.left = canvas.style.top = '0';
 
 var snowflakes = [], snowflake;
 for (i = 0; i < SnowVolume; i++) {
