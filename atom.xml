@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Witheredstar</title>
+  <icon>http://yoursite.com/icon.png</icon>
+  <subtitle>谢绝功勋十二转，想为你窃玉籫</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-03-15T13:09:15.629Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>starwave</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>等待</title>
+    <link href="http://yoursite.com/2019/03/14/wait/"/>
+    <id>http://yoursite.com/2019/03/14/wait/</id>
+    <published>2019-03-14T12:30:45.000Z</published>
+    <updated>2019-03-15T13:09:15.629Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;等待&quot;&gt;&lt;a href=&quot;#等待&quot; class=&quot;headerlink&quot; title=&quot;等待&quot;&gt;&lt;/a&gt;等待&lt;/h1&gt;&lt;p&gt;&amp;nbsp;&lt;br&gt;&amp;emsp;&amp;emsp;&lt;font size=&quot;4&quot;&gt;你有多久没有去好好等待了？等，是我们极不愿意去做的，它使时间变长，度日如年；它使日子枯燥，难以煎熬。等待总是那么漫长，从那一头到另一头；从春风到秋叶。从开始到结束。有的人一等成了望夫石，有的人一等便是一生。等待，已经那么的残忍，那么折磨，这个社会上似乎不应该有等待。&lt;/font&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="杂文" scheme="http://yoursite.com/categories/%E6%9D%82%E6%96%87/"/>
+    
+    
+      <category term="情感" scheme="http://yoursite.com/tags/%E6%83%85%E6%84%9F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>在古堰，是画乡</title>
+    <link href="http://yoursite.com/2019/01/06/where-the-guyan,is-the-huaxiang/"/>
+    <id>http://yoursite.com/2019/01/06/where-the-guyan,is-the-huaxiang/</id>
+    <published>2019-01-06T14:39:49.000Z</published>
+    <updated>2019-01-08T04:06:38.010Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;在古堰，是画乡&quot;&gt;&lt;a href=&quot;#在古堰，是画乡&quot; class=&quot;headerlink&quot; title=&quot;在古堰，是画乡&quot;&gt;&lt;/a&gt;在古堰，是画乡&lt;/h1&gt;&lt;p&gt;&amp;nbsp;&lt;br&gt;&amp;emsp;&amp;emsp;&lt;font size=&quot;4&quot;&gt;我最喜爱青春的一点，是说走就走的随性。从不顾及太多，突然间想到，下一秒就可以出发。什么都不用带，单带一小包，一小伞和一颗青春的心就够了。&lt;/font&gt;&lt;br&gt;
+    
+    </summary>
+    
+    
+      <category term="随笔" scheme="http://yoursite.com/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="游记" scheme="http://yoursite.com/tags/%E6%B8%B8%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2019小计划</title>
+    <link href="http://yoursite.com/2018/12/31/the-small-plan-of-2019/"/>
+    <id>http://yoursite.com/2018/12/31/the-small-plan-of-2019/</id>
+    <published>2018-12-31T12:39:34.000Z</published>
+    <updated>2019-01-07T14:40:40.754Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;2019小计划&quot;&gt;&lt;a href=&quot;#2019小计划&quot; class=&quot;headerlink&quot; title=&quot;2019小计划&quot;&gt;&lt;/a&gt;2019小计划&lt;/h1&gt;&lt;p&gt;&amp;nbsp;&lt;br&gt;&amp;emsp;&amp;emsp;&lt;font size=&quot;4&quot;&gt;2018就要结束了，好快好快x_x，所以决定先在此整理一下2018大事件。&lt;/font&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;font size=&quot;4&quot;&gt;伴随高中毕业，结束了高中生涯&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font size=&quot;4&quot;&gt;进入了大学，开辟了新天地&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font size=&quot;4&quot;&gt;学习了吉他（虽然很不熟练）&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font size=&quot;4&quot;&gt;创建了这个小网站~&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font size=&quot;4&quot;&gt;其他暂时没想到，下次补吧！&lt;/font&gt;&lt;br&gt;
+    
+    </summary>
+    
+    
+      <category term="随笔" scheme="http://yoursite.com/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="计划" scheme="http://yoursite.com/tags/%E8%AE%A1%E5%88%92/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>圣诞结</title>
+    <link href="http://yoursite.com/2018/12/25/christmas-knot/"/>
+    <id>http://yoursite.com/2018/12/25/christmas-knot/</id>
+    <published>2018-12-25T13:14:28.000Z</published>
+    <updated>2019-01-08T04:10:13.522Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;圣诞结&quot;&gt;&lt;a href=&quot;#圣诞结&quot; class=&quot;headerlink&quot; title=&quot;圣诞结&quot;&gt;&lt;/a&gt;圣诞结&lt;/h1&gt;&lt;p&gt;&amp;nbsp;&lt;br&gt;&amp;emsp;&amp;emsp;&lt;font size=&quot;4&quot;&gt;许久不见，你还好吗？今天是圣诞节，不知你有没有收到礼物。今年圣诞节没有下雪，不过在广场上有人工造雪，那也算是下雪吧。你那边下雪了吗？我还记得毕业前最后一个冬天，下了两次雪吧，第一次不是很大，第二次当我起床时已经是白茫茫一片了。那个冬天很开心，漫天的飞雪让人真的很怀念。&lt;/font&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="杂文" scheme="http://yoursite.com/categories/%E6%9D%82%E6%96%87/"/>
+    
+    
+      <category term="情感" scheme="http://yoursite.com/tags/%E6%83%85%E6%84%9F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>以声之色，塑以花之形</title>
+    <link href="http://yoursite.com/2018/12/23/in-the-color-of-sound,the-shape-of-the-flower/"/>
+    <id>http://yoursite.com/2018/12/23/in-the-color-of-sound,the-shape-of-the-flower/</id>
+    <published>2018-12-23T13:12:20.000Z</published>
+    <updated>2019-01-08T04:10:20.401Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;以声之色，塑以花之形&quot;&gt;&lt;a href=&quot;#以声之色，塑以花之形&quot; class=&quot;headerlink&quot; title=&quot;以声之色，塑以花之形&quot;&gt;&lt;/a&gt;以声之色，塑以花之形&lt;/h1&gt;&lt;p&gt;&amp;nbsp;&lt;br&gt;&amp;emsp;&amp;emsp;&lt;font size=&quot;4&quot;&gt;小亮点扩大，扩大，再扩大，一张张笑脸浮现。一个，两个，三个叉形的贴纸飞落而下，泪水却难以阻止。“The Shape Of Voice”。&lt;/font&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="杂文" scheme="http://yoursite.com/categories/%E6%9D%82%E6%96%87/"/>
+    
+    
+      <category term="情感" scheme="http://yoursite.com/tags/%E6%83%85%E6%84%9F/"/>
+    
+      <category term="观后感" scheme="http://yoursite.com/tags/%E8%A7%82%E5%90%8E%E6%84%9F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>summer</title>
+    <link href="http://yoursite.com/2018/12/13/summer/"/>
+    <id>http://yoursite.com/2018/12/13/summer/</id>
+    <published>2018-12-13T13:57:26.000Z</published>
+    <updated>2019-01-08T04:10:44.577Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;summer&quot;&gt;&lt;a href=&quot;#summer&quot; class=&quot;headerlink&quot; title=&quot;summer&quot;&gt;&lt;/a&gt;summer&lt;/h1&gt;&lt;blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;中文名：夏天&lt;/li&gt;
+&lt;li&gt;所属专辑：《菊次郎的夏天》&lt;/li&gt;
+&lt;li&gt;发行时间：1999年5月26日&lt;/li&gt;
+&lt;li&gt;谱曲：石久让&lt;/li&gt;
+&lt;li&gt;编曲：石久让&lt;/li&gt;
+&lt;li&gt;歌曲风格：轻音乐&lt;/li&gt;
+&lt;li&gt;时长：3分55秒&lt;br&gt;&amp;emsp;&amp;emsp;电影概述《菊次郎的夏天》是一部由北野武自编自导自演的清新温情的杰作。主题音乐summer穿插于整个故事中为让人感受到温情的各段情节中，让观众随着音乐感受故事中的惬意，也随着音乐感受剧情发展微微的起伏；音乐同时也将天真无邪的正男（关口雄介饰）和地痞向的小市民菊次郎（北野武饰）的性格及两人旅途中产生的友情、亲情、温情诠释了出来。悠扬而弥久。
+    
+    </summary>
+    
+    
+      <category term="杂文" scheme="http://yoursite.com/categories/%E6%9D%82%E6%96%87/"/>
+    
+    
+      <category term="情感" scheme="http://yoursite.com/tags/%E6%83%85%E6%84%9F/"/>
+    
+      <category term="音乐" scheme="http://yoursite.com/tags/%E9%9F%B3%E4%B9%90/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>我和我的小网站</title>
+    <link href="http://yoursite.com/2018/11/26/me-and-my-little-website/"/>
+    <id>http://yoursite.com/2018/11/26/me-and-my-little-website/</id>
+    <published>2018-11-26T08:20:35.000Z</published>
+    <updated>2019-01-08T04:10:29.434Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;我和我的小网站&quot;&gt;&lt;a href=&quot;#我和我的小网站&quot; class=&quot;headerlink&quot; title=&quot;我和我的小网站&quot;&gt;&lt;/a&gt;我和我的小网站&lt;/h1&gt;&lt;p&gt;&amp;nbsp;&lt;br&gt;&amp;emsp;&amp;emsp;&lt;font size=&quot;4&quot;&gt;其实在很早之前，我就有了搭建网站的想法。当然，并不是现在的博客。那时正好加入一个游戏团队，并且在里面干得如火如荼。久而久之，团队扩大了之后，就想宣传。恰巧对信息技术有点兴趣，于是开始了建站之旅。&lt;/font&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="杂文" scheme="http://yoursite.com/categories/%E6%9D%82%E6%96%87/"/>
+    
+    
+      <category term="历程" scheme="http://yoursite.com/tags/%E5%8E%86%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>分别的2018</title>
+    <link href="http://yoursite.com/2018/11/20/2018-respectively/"/>
+    <id>http://yoursite.com/2018/11/20/2018-respectively/</id>
+    <published>2018-11-20T12:51:28.000Z</published>
+    <updated>2019-01-08T04:10:37.226Z</updated>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;分别的2018&quot;&gt;&lt;a href=&quot;#分别的2018&quot; class=&quot;headerlink&quot; title=&quot;分别的2018&quot;&gt;&lt;/a&gt;分别的2018&lt;/h1&gt;
+    
+    </summary>
+    
+    
+      <category term="杂文" scheme="http://yoursite.com/categories/%E6%9D%82%E6%96%87/"/>
+    
+    
+      <category term="情感" scheme="http://yoursite.com/tags/%E6%83%85%E6%84%9F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>欢迎</title>
+    <link href="http://yoursite.com/2018/11/16/welcome/"/>
+    <id>http://yoursite.com/2018/11/16/welcome/</id>
+    <published>2018-11-16T11:27:35.000Z</published>
+    <updated>2018-12-26T13:17:36.049Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;欢迎来到这里&quot;&gt;&lt;a href=&quot;#欢迎来到这里&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="杂文" scheme="http://yoursite.com/categories/%E6%9D%82%E6%96%87/"/>
+    
+    
+      <category term="欢迎" scheme="http://yoursite.com/tags/%E6%AC%A2%E8%BF%8E/"/>
+    
+  </entry>
+  
+</feed>
