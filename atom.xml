@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Witheredstar</title>
-  <icon>http://yoursite.com/icon.png</icon>
+  <icon>http://www.starwave.com/icon.png</icon>
   <subtitle>谢绝功勋十二转，想为你窃玉籫</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://www.starwave.com/"/>
   <updated>2019-03-15T13:09:15.629Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://www.starwave.com/</id>
   
   <author>
     <name>starwave</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>等待</title>
-    <link href="http://yoursite.com/2019/03/14/wait/"/>
-    <id>http://yoursite.com/2019/03/14/wait/</id>
+    <link href="http://www.starwave.com/2019/03/14/wait/"/>
+    <id>http://www.starwave.com/2019/03/14/wait/</id>
     <published>2019-03-14T12:30:45.000Z</published>
     <updated>2019-03-15T13:09:15.629Z</updated>
     
@@ -30,17 +30,17 @@
     </summary>
     
     
-      <category term="杂文" scheme="http://yoursite.com/categories/%E6%9D%82%E6%96%87/"/>
+      <category term="杂文" scheme="http://www.starwave.com/categories/%E6%9D%82%E6%96%87/"/>
     
     
-      <category term="情感" scheme="http://yoursite.com/tags/%E6%83%85%E6%84%9F/"/>
+      <category term="情感" scheme="http://www.starwave.com/tags/%E6%83%85%E6%84%9F/"/>
     
   </entry>
   
   <entry>
     <title>在古堰，是画乡</title>
-    <link href="http://yoursite.com/2019/01/06/where-the-guyan,is-the-huaxiang/"/>
-    <id>http://yoursite.com/2019/01/06/where-the-guyan,is-the-huaxiang/</id>
+    <link href="http://www.starwave.com/2019/01/06/where-the-guyan,is-the-huaxiang/"/>
+    <id>http://www.starwave.com/2019/01/06/where-the-guyan,is-the-huaxiang/</id>
     <published>2019-01-06T14:39:49.000Z</published>
     <updated>2019-01-08T04:06:38.010Z</updated>
     
@@ -51,17 +51,17 @@
     </summary>
     
     
-      <category term="随笔" scheme="http://yoursite.com/categories/%E9%9A%8F%E7%AC%94/"/>
+      <category term="随笔" scheme="http://www.starwave.com/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
-      <category term="游记" scheme="http://yoursite.com/tags/%E6%B8%B8%E8%AE%B0/"/>
+      <category term="游记" scheme="http://www.starwave.com/tags/%E6%B8%B8%E8%AE%B0/"/>
     
   </entry>
   
   <entry>
     <title>2019小计划</title>
-    <link href="http://yoursite.com/2018/12/31/the-small-plan-of-2019/"/>
-    <id>http://yoursite.com/2018/12/31/the-small-plan-of-2019/</id>
+    <link href="http://www.starwave.com/2018/12/31/the-small-plan-of-2019/"/>
+    <id>http://www.starwave.com/2018/12/31/the-small-plan-of-2019/</id>
     <published>2018-12-31T12:39:34.000Z</published>
     <updated>2019-01-07T14:40:40.754Z</updated>
     
@@ -78,17 +78,17 @@
     </summary>
     
     
-      <category term="随笔" scheme="http://yoursite.com/categories/%E9%9A%8F%E7%AC%94/"/>
+      <category term="随笔" scheme="http://www.starwave.com/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
-      <category term="计划" scheme="http://yoursite.com/tags/%E8%AE%A1%E5%88%92/"/>
+      <category term="计划" scheme="http://www.starwave.com/tags/%E8%AE%A1%E5%88%92/"/>
     
   </entry>
   
   <entry>
     <title>圣诞结</title>
-    <link href="http://yoursite.com/2018/12/25/christmas-knot/"/>
-    <id>http://yoursite.com/2018/12/25/christmas-knot/</id>
+    <link href="http://www.starwave.com/2018/12/25/christmas-knot/"/>
+    <id>http://www.starwave.com/2018/12/25/christmas-knot/</id>
     <published>2018-12-25T13:14:28.000Z</published>
     <updated>2019-01-08T04:10:13.522Z</updated>
     
@@ -99,17 +99,17 @@
     </summary>
     
     
-      <category term="杂文" scheme="http://yoursite.com/categories/%E6%9D%82%E6%96%87/"/>
+      <category term="杂文" scheme="http://www.starwave.com/categories/%E6%9D%82%E6%96%87/"/>
     
     
-      <category term="情感" scheme="http://yoursite.com/tags/%E6%83%85%E6%84%9F/"/>
+      <category term="情感" scheme="http://www.starwave.com/tags/%E6%83%85%E6%84%9F/"/>
     
   </entry>
   
   <entry>
     <title>以声之色，塑以花之形</title>
-    <link href="http://yoursite.com/2018/12/23/in-the-color-of-sound,the-shape-of-the-flower/"/>
-    <id>http://yoursite.com/2018/12/23/in-the-color-of-sound,the-shape-of-the-flower/</id>
+    <link href="http://www.starwave.com/2018/12/23/in-the-color-of-sound,the-shape-of-the-flower/"/>
+    <id>http://www.starwave.com/2018/12/23/in-the-color-of-sound,the-shape-of-the-flower/</id>
     <published>2018-12-23T13:12:20.000Z</published>
     <updated>2019-01-08T04:10:20.401Z</updated>
     
@@ -120,19 +120,19 @@
     </summary>
     
     
-      <category term="杂文" scheme="http://yoursite.com/categories/%E6%9D%82%E6%96%87/"/>
+      <category term="杂文" scheme="http://www.starwave.com/categories/%E6%9D%82%E6%96%87/"/>
     
     
-      <category term="情感" scheme="http://yoursite.com/tags/%E6%83%85%E6%84%9F/"/>
+      <category term="情感" scheme="http://www.starwave.com/tags/%E6%83%85%E6%84%9F/"/>
     
-      <category term="观后感" scheme="http://yoursite.com/tags/%E8%A7%82%E5%90%8E%E6%84%9F/"/>
+      <category term="观后感" scheme="http://www.starwave.com/tags/%E8%A7%82%E5%90%8E%E6%84%9F/"/>
     
   </entry>
   
   <entry>
     <title>summer</title>
-    <link href="http://yoursite.com/2018/12/13/summer/"/>
-    <id>http://yoursite.com/2018/12/13/summer/</id>
+    <link href="http://www.starwave.com/2018/12/13/summer/"/>
+    <id>http://www.starwave.com/2018/12/13/summer/</id>
     <published>2018-12-13T13:57:26.000Z</published>
     <updated>2019-01-08T04:10:44.577Z</updated>
     
@@ -151,19 +151,19 @@
     </summary>
     
     
-      <category term="杂文" scheme="http://yoursite.com/categories/%E6%9D%82%E6%96%87/"/>
+      <category term="杂文" scheme="http://www.starwave.com/categories/%E6%9D%82%E6%96%87/"/>
     
     
-      <category term="情感" scheme="http://yoursite.com/tags/%E6%83%85%E6%84%9F/"/>
+      <category term="情感" scheme="http://www.starwave.com/tags/%E6%83%85%E6%84%9F/"/>
     
-      <category term="音乐" scheme="http://yoursite.com/tags/%E9%9F%B3%E4%B9%90/"/>
+      <category term="音乐" scheme="http://www.starwave.com/tags/%E9%9F%B3%E4%B9%90/"/>
     
   </entry>
   
   <entry>
     <title>我和我的小网站</title>
-    <link href="http://yoursite.com/2018/11/26/me-and-my-little-website/"/>
-    <id>http://yoursite.com/2018/11/26/me-and-my-little-website/</id>
+    <link href="http://www.starwave.com/2018/11/26/me-and-my-little-website/"/>
+    <id>http://www.starwave.com/2018/11/26/me-and-my-little-website/</id>
     <published>2018-11-26T08:20:35.000Z</published>
     <updated>2019-01-08T04:10:29.434Z</updated>
     
@@ -174,17 +174,17 @@
     </summary>
     
     
-      <category term="杂文" scheme="http://yoursite.com/categories/%E6%9D%82%E6%96%87/"/>
+      <category term="杂文" scheme="http://www.starwave.com/categories/%E6%9D%82%E6%96%87/"/>
     
     
-      <category term="历程" scheme="http://yoursite.com/tags/%E5%8E%86%E7%A8%8B/"/>
+      <category term="历程" scheme="http://www.starwave.com/tags/%E5%8E%86%E7%A8%8B/"/>
     
   </entry>
   
   <entry>
     <title>分别的2018</title>
-    <link href="http://yoursite.com/2018/11/20/2018-respectively/"/>
-    <id>http://yoursite.com/2018/11/20/2018-respectively/</id>
+    <link href="http://www.starwave.com/2018/11/20/2018-respectively/"/>
+    <id>http://www.starwave.com/2018/11/20/2018-respectively/</id>
     <published>2018-11-20T12:51:28.000Z</published>
     <updated>2019-01-08T04:10:37.226Z</updated>
     
@@ -195,17 +195,17 @@
     </summary>
     
     
-      <category term="杂文" scheme="http://yoursite.com/categories/%E6%9D%82%E6%96%87/"/>
+      <category term="杂文" scheme="http://www.starwave.com/categories/%E6%9D%82%E6%96%87/"/>
     
     
-      <category term="情感" scheme="http://yoursite.com/tags/%E6%83%85%E6%84%9F/"/>
+      <category term="情感" scheme="http://www.starwave.com/tags/%E6%83%85%E6%84%9F/"/>
     
   </entry>
   
   <entry>
     <title>欢迎</title>
-    <link href="http://yoursite.com/2018/11/16/welcome/"/>
-    <id>http://yoursite.com/2018/11/16/welcome/</id>
+    <link href="http://www.starwave.com/2018/11/16/welcome/"/>
+    <id>http://www.starwave.com/2018/11/16/welcome/</id>
     <published>2018-11-16T11:27:35.000Z</published>
     <updated>2018-12-26T13:17:36.049Z</updated>
     
@@ -222,10 +222,10 @@
     </summary>
     
     
-      <category term="杂文" scheme="http://yoursite.com/categories/%E6%9D%82%E6%96%87/"/>
+      <category term="杂文" scheme="http://www.starwave.com/categories/%E6%9D%82%E6%96%87/"/>
     
     
-      <category term="欢迎" scheme="http://yoursite.com/tags/%E6%AC%A2%E8%BF%8E/"/>
+      <category term="欢迎" scheme="http://www.starwave.com/tags/%E6%AC%A2%E8%BF%8E/"/>
     
   </entry>
   
